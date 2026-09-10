@@ -1,3 +1,8 @@
+name=XTA-AdKiller
+version=1.0.0
+versionCode=1
+author=ldxm666
+description=超级课程表去广告：开屏/横幅/浮窗/AMPS 全类型拦截
 minApiVersion=101
 targetApiVersion=102
 staticScope=true
